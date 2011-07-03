@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"deb",
+				"debugParam"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/mike/eclipse/workspace/timetables/lib/app.coffee",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mike/eclipse/workspace/timetables/lib/line-file.coffee",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mike/.Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-settings",
+		"/home/mike/eclipse/workspace/timetables/lib/boot.js",
+		"/home/mike/eclipse/workspace/timetables/app.coffee",
+		"/home/mike/eclipse/workspace/timetables/line-file.coffee",
+		"/home/mike/eclipse/workspace/timetables/read-json.coffee",
+		"/home/mike/eclipse/workspace/timetables/xml-to-json.coffee",
+		"/home/mike/tmp/xml2js/district.js",
+		"/home/mike/tmp/xml2js/read-json.coffee",
+		"/home/mike/tmp/xml2js/app.coffee",
+		"/home/mike/tmp/xml2js/line-file.coffee",
+		"/home/mike/tmp/xml2js/boot.js",
+		"/home/mike/.Sublime Text 2/Packages/CoffeeScript/CoffeeScript.tmLanguage",
+		"/home/mike/.Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/home/mike/.Sublime Text 2/Packages/JavaScript/JavaScript.sublime-settings",
+		"/home/mike/greasemonkey/wahanda-site-debug.user.js",
+		"/home/mike/.Sublime Text 2/Packages/JavaScript/JavaScript.tmLanguage",
+		"/home/mike/.Sublime Text 2/Packages/JavaScript/JavaScript Indent.tmPreferences",
+		"/home/mike/.Sublime Text 2/Packages/C++/C++.sublime-settings",
+		"/home/mike/.mozilla/firefox/qreqt9kt.development/gm_scripts/wahanda_site_debug/wahanda_site_debug.user.js",
+		"/home/mike/.mozilla/firefox/qreqt9kt.development/gm_scripts/wahanda_debug/wahanda_debug.user.js",
+		"/home/mike/greasemonkey/wahanda-debug.user.js",
+		"/home/mike/tmp/xml2js/district.xml",
+		"/home/mike/tmp/xml2js/district.json",
+		"/home/mike/tmp/xml2js/xml-to-json.coffee",
+		"/home/mike/tmp/xml2js/test.js"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"VehicleJourney",
+			"JP_01DIS_H0_279",
+			"01DIS0H1515",
+			"VehicleJourney"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/mike/eclipse/workspace/timetables/lib/app.coffee",
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								100
+							],
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mike/eclipse/workspace/timetables/lib/line-file.coffee",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150,
+	"status_bar_visible": true
+}
