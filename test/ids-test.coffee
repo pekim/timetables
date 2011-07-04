@@ -10,6 +10,7 @@ exports.idsMap = (test) ->
 
   map = ids.makeMap(object)
 
+  test.strictEqual(Object.keys(map).length, 3)
   test.ok(map.a1)
   test.ok(map.a2)
   test.ok(map.b)
