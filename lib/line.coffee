@@ -22,6 +22,8 @@ class Line
       [journey.departureTime.hour, journey.departureTime.minute, journey.departureTime.second] =
         vehicleJourney.DepartureTime.split(':')
 
+      journey.journeyPattern = @ids[vehicleJourney.JourneyPatternRef]
+
       @journeys.push(journey)
 
 module.exports = Line
